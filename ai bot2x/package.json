@@ -1,0 +1,21 @@
+{
+  "name": "unibot-ai",
+  "version": "1.0.0",
+  "description": "A lightweight, simple AI-powered study and campus assistant for university students.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "university",
+    "student-assistant",
+    "study-bot",
+    "gemini-ai",
+    "education"
+  ],
+  "author": "Student Developer",
+  "license": "MIT"
+}
